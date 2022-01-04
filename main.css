@@ -1,0 +1,24 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.first-box {
+    width: 400px;
+    height: 200px;
+}
+.second-box {
+    width: 400px;
+    height: 200px;
+}
+
+#board1 {
+    height: auto;
+    overflow: scroll;
+}
+
+#board2 {
+    height: auto;
+    overflow: scroll;
+}

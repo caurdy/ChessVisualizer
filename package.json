@@ -1,0 +1,18 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "Program which visualizes chess games using color gradients to display space control",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chrisoakman/chessboardjs": "^1.0.0",
+    "browserify": "^17.0.0",
+    "chess.js": "^0.12.0",
+    "jquery": "^3.6.0",
+    "parcel": "^2.0.1"
+  }
+}
